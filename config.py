@@ -10,7 +10,7 @@ API_ID = int(os.environ.get("API_ID", "23288569"))
 API_HASH = os.environ.get("API_HASH", "9de180c01a4a4ffb1d19b0738f01b1c6")
 
 
-OWNER_ID = int(os.environ.get("OWNER_ID", "6299192020"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "8436381200"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://subashartsx_db_user:subasharts1997@cluster0.ojojvkb.mongodb.net")
 DB_NAME = os.environ.get("DB_NAME", "FireAnimeTamil")
 
